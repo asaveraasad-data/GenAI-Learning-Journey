@@ -8,7 +8,7 @@ I'm documenting everything I learn through the CampusX LangChain playlist.
 
 - ✅ 01 - Models
 - ✅ 02 - Embedding Models
-- ⏳ Prompt Templates
+- ✅ Prompt Templates
 - ⏳ Output Parsers
 - ⏳ Chains
 - ⏳ Memory
